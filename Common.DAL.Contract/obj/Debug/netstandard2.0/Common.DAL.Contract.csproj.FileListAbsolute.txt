@@ -1,0 +1,33 @@
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.deps.json
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfo.cs
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.csprojAssemblyReference.cache
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.deps.json
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.csprojAssemblyReference.cache
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfo.cs
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\Users\user\Desktop\src\src\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.deps.json
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.csprojAssemblyReference.cache
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfo.cs
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\Users\user\Desktop\заметки шум 1_0\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.deps.json
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\bin\Debug\netstandard2.0\Common.DAL.Contract.pdb
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.dll
+C:\Users\user\Desktop\Новая папка\Common\Common.DAL.Contract\obj\Debug\netstandard2.0\Common.DAL.Contract.pdb

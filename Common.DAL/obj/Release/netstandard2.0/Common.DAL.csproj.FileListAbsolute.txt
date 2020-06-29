@@ -1,0 +1,14 @@
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.DAL.deps.json
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.DAL.dll
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.DAL.pdb
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.DAL.Contract.dll
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.DAL.Contract.pdb
+C:\XRemoteNotes\src\Common\Common.DAL\bin\Release\netstandard2.0\Common.Domain.pdb
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.csprojAssemblyReference.cache
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.AssemblyInfo.cs
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.csproj.CopyComplete
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.dll
+C:\XRemoteNotes\src\Common\Common.DAL\obj\Release\netstandard2.0\Common.DAL.pdb

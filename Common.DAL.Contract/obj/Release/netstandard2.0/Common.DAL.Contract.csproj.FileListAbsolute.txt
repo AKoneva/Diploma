@@ -1,0 +1,8 @@
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\bin\Release\netstandard2.0\Common.DAL.Contract.deps.json
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\bin\Release\netstandard2.0\Common.DAL.Contract.dll
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\bin\Release\netstandard2.0\Common.DAL.Contract.pdb
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Release\netstandard2.0\Common.DAL.Contract.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Release\netstandard2.0\Common.DAL.Contract.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Release\netstandard2.0\Common.DAL.Contract.AssemblyInfo.cs
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Release\netstandard2.0\Common.DAL.Contract.dll
+C:\XRemoteNotes\src\Common\Common.DAL.Contract\obj\Release\netstandard2.0\Common.DAL.Contract.pdb
