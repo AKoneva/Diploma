@@ -1,0 +1,24 @@
+C:\XRemoteNotes\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\XRemoteNotes\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\XRemoteNotes\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\XRemoteNotes\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb
+C:\Users\user\Desktop\src\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\Users\user\Desktop\src\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\Users\user\Desktop\src\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\Users\user\Desktop\src\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\src\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\src\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\src\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\Users\user\Desktop\src\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\Users\user\Desktop\Новая папка\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb

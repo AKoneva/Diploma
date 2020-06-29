@@ -1,0 +1,24 @@
+C:\XRemoteNotes\src\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.deps.json
+C:\XRemoteNotes\src\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.dll
+C:\XRemoteNotes\src\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.pdb
+C:\XRemoteNotes\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.AssemblyInfo.cs
+C:\XRemoteNotes\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.dll
+C:\XRemoteNotes\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.pdb
+C:\Users\user\Desktop\src\src\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.deps.json
+C:\Users\user\Desktop\src\src\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.dll
+C:\Users\user\Desktop\src\src\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.pdb
+C:\Users\user\Desktop\src\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.csprojAssemblyReference.cache
+C:\Users\user\Desktop\src\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\src\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.AssemblyInfo.cs
+C:\Users\user\Desktop\src\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.dll
+C:\Users\user\Desktop\src\src\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.pdb
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.deps.json
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.dll
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\bin\Release\netstandard2.0\Common.Utility.pdb
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.dll
+C:\Users\user\Desktop\Новая папка\Common\Common.Utility\obj\Release\netstandard2.0\Common.Utility.pdb
